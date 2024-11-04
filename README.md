@@ -11,7 +11,7 @@ What I've learned
 - Apply your new skills to real-world projects and build a portfolio of data projects that showcase your proficiency to employers
 
 
-## Final Project: Spacex Project
+## Final Project: Space X Falcon 9 First Stage Landing Prediction
 ### Overview:
 Space X advertises Falcon 9 rocket launches on its website with a cost of 62 million dollars; other providers cost upward of 165 million dollars each, much of the savings is because Space X can reuse the first stage. Therefore if we can determine if the first stage will land, we can determine the cost of a launch. This information can be used if an alternate company wants to bid against space X for a rocket launch. In this lab, you will create a machine learning pipeline to predict if the first stage will land given the data from the preceding labs.
 
@@ -24,4 +24,4 @@ Space X advertises Falcon 9 rocket launches on its website with a cost of 62 mil
 - Build an Interactive Map with Folium: https://github.com/schickwu/IBM-Data-Science-Specialization/blob/main/Launch%20Sites%20Locations%20Analysis%20with%20Folium.ipynb
 - Build a Dashboard with Plotly Dash: https://github.com/schickwu/IBM-Data-Science-Specialization/blob/main/spacex_dash_app%2010.31.30.py
 - Machine Learning Prediction: https://github.com/schickwu/IBM-Data-Science-Specialization/blob/main/Space%20X%20Falcon%209%20First%20Stage%20Landing%20Prediction%20Assignment%3A%20Machine%20Learning%20Prediction.ipynb
-- Final Report: https://github.com/schickwu/IBM-Data-Science-Specialization/blob/main/ds-capstone-report.pdf
+### Final Report: https://github.com/schickwu/IBM-Data-Science-Specialization/blob/main/ds-capstone-report.pdf
